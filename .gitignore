@@ -2,7 +2,8 @@
 *.class
 
 #Eclipse
-
+.project
+.classpath
 
 # Log file
 *.log
