@@ -1,4 +1,4 @@
-# Applie-pie
+# Apple-pie
 
 First attempt at building a Web Server from scratch
 
